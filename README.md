@@ -17,8 +17,7 @@ Andrew - Making buildings, people, cars, per asset list:
       Stop Lights/Stop Signs
 Amanda - 
        Game Elements
-          Start/End UI
-          "You Win" trigger for border
+         trigger for border
           Player spawner with difficulty levels
           Program timer
           
