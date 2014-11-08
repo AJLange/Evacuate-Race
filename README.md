@@ -18,5 +18,5 @@ Andrew - Making buildings, people, cars, per asset list:
 Amanda - 
        Game Elements
           Player spawner with difficulty levels
-          Program timer
-          
+          Additional things need to happen - some ideas? meteors, powerups, pedestrians, tornado winds?
+
