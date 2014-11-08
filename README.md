@@ -16,9 +16,7 @@ Andrew - Making buildings, people, cars, per asset list:
       Car
       Stop Lights/Stop Signs
 Amanda - 
-      Clean up the road
-      Add correct collisions
-      Game Elements
+       Game Elements
           Start/End UI
           "You Win" trigger for border
           Player spawner with difficulty levels
