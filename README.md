@@ -15,7 +15,7 @@ Andrew - Making buildings, people, cars, per asset list:
       People
       Car
       Stop Lights/Stop Signs
-Amanda - Do a skybox, sunlight
+Amanda - 
       Clean up the road
       Add correct collisions
       Game Elements
