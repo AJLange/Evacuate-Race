@@ -18,6 +18,18 @@ function onClick ()
     Application.LoadLevel("Game");
 }
 
+function onCredits ()
+
+{
+
+    Application.LoadLevel("Credits");
+}
+
+function onMenu()
+{
+    Application.LoadLevel("startScreen");
+}
+
 function onClickEasy ()
 
 { 

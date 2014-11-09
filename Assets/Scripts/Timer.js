@@ -6,7 +6,7 @@ var timeRemaining : float;
 //time is in seconds
 
 function Awake () {
-    startTime = Time.time + 20.0;
+    startTime = Time.time + 160.0;
 }
 
 function Update () {
